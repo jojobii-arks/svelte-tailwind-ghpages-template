@@ -20,4 +20,4 @@ Using
 ## During Development
 
 - When using relative URLs to `static/`, prepend url with `{base}`.
-  - Use `import { base } from '$app/paths;`
+  - Use `import { base } from '$app/paths';` at top of script.
