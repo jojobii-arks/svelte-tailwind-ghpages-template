@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	let count = 0;
 </script>
 
@@ -21,7 +22,7 @@
 	</div>
 	<img
 		class="pop-on-hover w-96 rounded-full border-8 shadow-teal-100"
-		src="assets/images/cat-dance.gif"
+		src="{base}/images/cat-dance.gif"
 		alt="vibing cat gif"
 	/>
 	<button
