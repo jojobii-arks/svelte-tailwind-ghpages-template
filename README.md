@@ -18,3 +18,5 @@ Using
     - Example: `localhost:3000/your-repo-name`.
 
 ## During Development
+
+- When using relative URLs to static
