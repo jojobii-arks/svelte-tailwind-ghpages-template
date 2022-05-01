@@ -22,7 +22,7 @@
 	</div>
 	<img
 		class="pop-on-hover w-96 rounded-full border-8 shadow-teal-100"
-		src="{base}/images/cat-dance.gif"
+		src="{base}/assets/images/cat-dance.gif"
 		alt="vibing cat gif"
 	/>
 	<button
