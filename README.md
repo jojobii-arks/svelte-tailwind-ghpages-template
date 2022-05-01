@@ -5,6 +5,8 @@ Using
   - via [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 - [gh-pages](https://www.npmjs.com/package/gh-pages)
 
+Based off https://github.com/metonym/sveltekit-gh-pages
+
 ## Guide
 
 - Clone in Remote Container in VSCode.
